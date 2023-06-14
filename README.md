@@ -35,7 +35,7 @@
 ## 模型
 ### 文本生成
 - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B): https://github.com/THUDM/VisualGLM-6B
+- [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B): Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 - [llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models
 - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca):中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [MOSS](https://github.com/OpenLMLab/MOSS): MOSS是一个支持中英双语和多种插件的开源对话语言模型
