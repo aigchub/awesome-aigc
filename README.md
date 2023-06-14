@@ -34,7 +34,16 @@
 
 ## 模型
 ### 文本生成
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B): https://github.com/THUDM/VisualGLM-6B
+- [llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca):中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [MOSS](https://github.com/OpenLMLab/MOSS): MOSS是一个支持中英双语和多种插件的开源对话语言模型
+
+
 ### 图片生成
+- [stable-diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model, 大名鼎鼎的 SD
+
 ### 音乐声音
 - [bark](https://github.com/suno-ai/bark): Text-Prompted Generative Audio Model, 文本提示生成音频模型
 
@@ -42,6 +51,8 @@
 - [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT): 这是一个入门项目，可帮助您构建具有独特个性、声音甚至 SELFIES 的个性化 AI 伴侣！
 - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): 您的个性化人工智能导师！
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
+- [gpt_academic](https://github.com/binary-husky/gpt_academic): GPT 学术优化 (GPT Academic) 应用
+- [law-cn-ai](https://github.com/lvwzhen/law-cn-ai): AI 法律助手
 
 ### 中文提示词模板
 - [chatgpt-prompts-wiki-zh](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh): ChatGPT指令大全：最全中文指令库
@@ -71,7 +82,8 @@
 ## Stable Diffusion 应用
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui):  A browser interface based on Gradio library for Stable Diffusion
 ## Stable Diffusion 扩展插件
-- [](https://github.com/lllyasviel/ControlNet): ControlNet is a neural network structure to control diffusion models by adding extra conditions.
+- [ControlNet](https://github.com/lllyasviel/ControlNet): ControlNet is a neural network structure to control diffusion models by adding extra conditions.
+- [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything): Segment Anything for Stable Diffusion WebUI
 
 
 ## 教程
