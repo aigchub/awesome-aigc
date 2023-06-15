@@ -20,12 +20,14 @@
 - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca):中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [MOSS](https://github.com/OpenLMLab/MOSS): MOSS是一个支持中英双语和多种插件的开源对话语言模型
 
-
 ### 图片生成
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model, 大名鼎鼎的 SD
 
 ### 音乐声音
 - [bark](https://github.com/suno-ai/bark): Text-Prompted Generative Audio Model, 文本提示生成音频模型
+
+## LLM 应用
+- [dify](https://github.com/langgenius/dify): Dify 是一个易用的 LLMOps 平台，旨在让更多人可以创建可持续运营的原生 AI 应用。Dify 提供多种类型应用的可视化编排，应用可开箱即用，也能以“后端即服务”的 API 提供服务。
 
 ## ChatGPT 应用
 - [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT): 这是一个入门项目，可帮助您构建具有独特个性、声音甚至 SELFIES 的个性化 AI 伴侣！
@@ -38,6 +40,7 @@
 - [chatgpt-prompts-wiki-zh](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh): ChatGPT指令大全：最全中文指令库
 - [wonderful-prompts](https://github.com/yzfly/wonderful-prompts): 🔥中文 prompts 精选🔥，提升 ChatGPT 可玩性和可用性！🚀。
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut): ChatGPT Shortcut，让生产力加倍的 ChatGPT 快捷指令
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh):ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
 
 
@@ -64,6 +67,7 @@
 ## Stable Diffusion 扩展插件
 - [ControlNet](https://github.com/lllyasviel/ControlNet): ControlNet is a neural network structure to control diffusion models by adding extra conditions.
 - [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything): Segment Anything for Stable Diffusion WebUI
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): 自动标注插件
 
 
 ## 教程

@@ -18,6 +18,7 @@
         - [文本生成](#%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90)
         - [图片生成](#%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90)
         - [音乐声音](#%E9%9F%B3%E4%B9%90%E5%A3%B0%E9%9F%B3)
+    - [LLM 应用](#llm-%E5%BA%94%E7%94%A8)
     - [ChatGPT 应用](#chatgpt-%E5%BA%94%E7%94%A8)
         - [中文提示词模板](#%E4%B8%AD%E6%96%87%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%A8%A1%E6%9D%BF)
         - [提示词模板](#%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%A8%A1%E6%9D%BF)
@@ -40,12 +41,14 @@
 - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca):中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [MOSS](https://github.com/OpenLMLab/MOSS): MOSS是一个支持中英双语和多种插件的开源对话语言模型
 
-
 ### 图片生成
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model, 大名鼎鼎的 SD
 
 ### 音乐声音
 - [bark](https://github.com/suno-ai/bark): Text-Prompted Generative Audio Model, 文本提示生成音频模型
+
+## LLM 应用
+- [dify](https://github.com/langgenius/dify): Dify 是一个易用的 LLMOps 平台，旨在让更多人可以创建可持续运营的原生 AI 应用。Dify 提供多种类型应用的可视化编排，应用可开箱即用，也能以“后端即服务”的 API 提供服务。
 
 ## ChatGPT 应用
 - [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT): 这是一个入门项目，可帮助您构建具有独特个性、声音甚至 SELFIES 的个性化 AI 伴侣！
@@ -58,6 +61,7 @@
 - [chatgpt-prompts-wiki-zh](https://github.com/AIzhibei/chatgpt-prompts-wiki-zh): ChatGPT指令大全：最全中文指令库
 - [wonderful-prompts](https://github.com/yzfly/wonderful-prompts): 🔥中文 prompts 精选🔥，提升 ChatGPT 可玩性和可用性！🚀。
 - [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut): ChatGPT Shortcut，让生产力加倍的 ChatGPT 快捷指令
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh):ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
 
 
@@ -84,6 +88,7 @@
 ## Stable Diffusion 扩展插件
 - [ControlNet](https://github.com/lllyasviel/ControlNet): ControlNet is a neural network structure to control diffusion models by adding extra conditions.
 - [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything): Segment Anything for Stable Diffusion WebUI
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): 自动标注插件
 
 
 ## 教程
