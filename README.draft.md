@@ -77,6 +77,7 @@
 - [ChatGPT 教程](https://learningprompt.wiki/docs/chatgpt-learning-path): 由浅入深，从使用者的角度，教你如何使用 ChatGPT，以及如何更好地使用 ChatGPT。
 
 ### Stable Diffusion
+- [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook): 本指南是关于 Stable Diffusion WebUi 的使用及围绕相关技术展开的应用指导型 Wiki。
 
 ### Midjourney
 - [Midjourney 教程](https://learningprompt.wiki/docs/midjourney-learning-path): 通过各种场景案例，教你如何使用 Midjourney。即使是小白，看完教程后，也能够快速上手。
