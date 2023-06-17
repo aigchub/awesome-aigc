@@ -46,6 +46,7 @@
 
 ### 音乐声音
 - [bark](https://github.com/suno-ai/bark): Text-Prompted Generative Audio Model, 文本提示生成音频模型
+- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a PyTorch library for deep learning research on audio generation. At the moment, it contains the code for MusicGen, a state-of-the-art controllable text-to-music model.Audiocraft 是一个 PyTorch 库，用于音频生成的深度学习研究。 目前，它包含 MusicGen 的代码，这是一种最先进的可控文本到音乐模型。
 
 ## LLM 应用
 - [dify](https://github.com/langgenius/dify): Dify 是一个易用的 LLMOps 平台，旨在让更多人可以创建可持续运营的原生 AI 应用。Dify 提供多种类型应用的可视化编排，应用可开箱即用，也能以“后端即服务”的 API 提供服务。
